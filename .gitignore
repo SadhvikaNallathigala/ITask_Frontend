@@ -1,5 +1,3 @@
-node_modules
-
 # Dependencies
 node_modules/
 
@@ -14,3 +12,12 @@ out/
 
 # Logs
 npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Deployment
+.vercel/
+
+# Operating system files
+.DS_Store
+Thumbs.db
