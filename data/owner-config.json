@@ -1,0 +1,223 @@
+{
+  "navigation": [
+    {
+      "id": "dashboard",
+      "label": "Dashboard",
+      "icon": "LayoutDashboard"
+    },
+    {
+      "id": "projects",
+      "label": "Project Tracker",
+      "icon": "FolderKanban"
+    },
+    {
+      "id": "tasks",
+      "label": "Task Management",
+      "icon": "ListChecks"
+    },
+    {
+      "id": "team",
+      "label": "Team Tracker",
+      "icon": "Users"
+    },
+    {
+      "id": "risks",
+      "label": "Risks & Issues",
+      "icon": "ShieldAlert"
+    },
+    {
+      "id": "notifications",
+      "label": "Notifications",
+      "icon": "Bell"
+    },
+    {
+      "id": "reports",
+      "label": "Reports & Analytics",
+      "icon": "ChartNoAxesCombined"
+    },
+    {
+      "id": "itab",
+      "label": "iTAB AI Assistant",
+      "icon": "Bot"
+    },
+    {
+      "id": "settings",
+      "label": "Settings",
+      "icon": "Settings"
+    },
+    {
+      "id": "approvals",
+      "label": "Approvals & Evidence",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "documents",
+      "label": "Documents & Knowledge",
+      "icon": "FolderKanban"
+    },
+    {
+      "id": "procurement",
+      "label": "Suppliers & Contracts",
+      "icon": "ListChecks"
+    },
+    {
+      "id": "budget",
+      "label": "Budget & Resources",
+      "icon": "ChartNoAxesCombined"
+    },
+    {
+      "id": "audit",
+      "label": "Audit Trail",
+      "icon": "ShieldAlert"
+    },
+    {
+      "id": "activity",
+      "label": "Activity Feed",
+      "icon": "Activity"
+    },
+    {
+      "id": "admin",
+      "label": "Templates & Permissions",
+      "icon": "Settings"
+    },
+    {
+      "id": "integrations",
+      "label": "Integrations",
+      "icon": "Settings"
+    }
+  ],
+  "ownerTransactions": [
+    [
+      "Project Tracker",
+      "VOP",
+      "View Owned Projects",
+      "VIEW"
+    ],
+    [
+      "Project Tracker",
+      "CP",
+      "Create Project",
+      "CREATE"
+    ],
+    [
+      "Project Tracker",
+      "UP",
+      "Update Project",
+      "UPDATE"
+    ],
+    [
+      "Project Tracker",
+      "VPD",
+      "View Project Details",
+      "VIEW"
+    ],
+    [
+      "Project Tracker",
+      "MPM",
+      "Manage Project Members",
+      "UPDATE"
+    ],
+    [
+      "Task Management",
+      "VPT",
+      "View Project Tasks",
+      "VIEW"
+    ],
+    [
+      "Task Management",
+      "CT",
+      "Create Task",
+      "CREATE"
+    ],
+    [
+      "Task Management",
+      "AST",
+      "Assign Task",
+      "UPDATE"
+    ],
+    [
+      "Task Management",
+      "UT",
+      "Update Task",
+      "UPDATE"
+    ],
+    [
+      "Task Management",
+      "MTD",
+      "Manage Task Dependencies",
+      "UPDATE"
+    ],
+    [
+      "Task Management",
+      "VTH",
+      "View Task History",
+      "VIEW"
+    ],
+    [
+      "Team Tracker",
+      "VTW",
+      "View Team Workload",
+      "VIEW"
+    ],
+    [
+      "Team Tracker",
+      "VTP",
+      "View Team Progress",
+      "VIEW"
+    ],
+    [
+      "Team Tracker",
+      "VOT",
+      "View Overdue Tasks",
+      "VIEW"
+    ],
+    [
+      "Team Tracker",
+      "VPRS",
+      "View Project Risks",
+      "VIEW"
+    ],
+    [
+      "Notification",
+      "VN",
+      "View Notifications",
+      "VIEW"
+    ],
+    [
+      "Notification",
+      "VPA",
+      "View Project Alerts",
+      "VIEW"
+    ],
+    [
+      "Notification",
+      "MNR",
+      "Mark Notification Read",
+      "UPDATE"
+    ],
+    [
+      "Report",
+      "VPRT",
+      "View Project Report",
+      "VIEW"
+    ],
+    [
+      "Report",
+      "VTRP",
+      "View Task Report",
+      "VIEW"
+    ],
+    [
+      "Report",
+      "VTMR",
+      "View Team Report",
+      "VIEW"
+    ],
+    [
+      "Report",
+      "EPR",
+      "Export Project Report",
+      "EXPORT"
+    ]
+  ]
+}
